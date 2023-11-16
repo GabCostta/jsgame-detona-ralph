@@ -1,10 +1,10 @@
 ## Awesome JSGame Detona Ralph
 
-<p align="center">
-  <img src="https://static.wikia.nocookie.net/herois/images/b/b8/Wreck-It_Ralph.png/revision/latest?cb=20221111205852&path-prefix=pt-br" alt="JSGame Detona Ralph Logo">
-</p>
+![image](https://static.wikia.nocookie.net/herois/images/b/b8/Wreck-It_Ralph.png/revision/latest?cb=20221111205852&path-prefix=pt-br)
 
 Bem-vindo ao **JSGame Detona Ralph**! Neste repositório, você encontrará um jogo divertido baseado no famoso filme "Detona Ralph". Este projeto não apenas oferece entretenimento, mas também demonstra várias técnicas avançadas de desenvolvimento de jogos em JavaScript.
+
+[Clique aqui](https://gabcostta.github.io/jsgame-detona-ralph/) para acessar o jogo!
 
 ### Tecnologias Utilizadas
 
